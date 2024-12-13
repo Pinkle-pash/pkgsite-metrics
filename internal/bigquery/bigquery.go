@@ -3,6 +3,7 @@
 // license that can be found in the LICENSE file.
 
 // Package bigquery provides a client for reading and writing to BigQuery.
+// Package bigquery provides a client for reading and writing to BigQuery.
 package bigquery
 
 import (
